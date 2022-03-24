@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "0_5_0",
-        "lastModified": 1648108231,
-        "narHash": "sha256-nnjUCsasNmo1zYmmze0SliUx2KIbDQsUz9lsfuYvg90=",
+        "lastModified": 1648163752,
+        "narHash": "sha256-6gnhzjeDDy5cMb6Mss1PSuhol5Xr7zj1jH5TH/tpiKM=",
         "owner": "nim-nix-pkgs",
         "repo": "websocket",
-        "rev": "f658f010885cad399269b9819fcda9a76c5f630d",
+        "rev": "226a389138079748e4503adc5386383caf6f75b8",
         "type": "github"
       },
       "original": {
