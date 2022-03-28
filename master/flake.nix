@@ -11,7 +11,6 @@
   inputs.src-ormin-master.ref   = "refs/heads/master";
   inputs.src-ormin-master.owner = "Araq";
   inputs.src-ormin-master.repo  = "ormin";
-  inputs.src-ormin-master.dir   = "";
   inputs.src-ormin-master.type  = "github";
   
   inputs."websocket".owner = "nim-nix-pkgs";
